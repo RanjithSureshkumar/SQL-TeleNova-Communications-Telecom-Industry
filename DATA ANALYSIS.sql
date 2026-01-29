@@ -1,5 +1,5 @@
 -- For each telecom circle, identify the operator with the highest number of active subscribers.
--- Cross Check
+
 	Select * from 
 	(SELECT telecom_circle_name, operator_name,sum(active_subscribers) as users,
 	row_number() over(partition by telecom_circle_name  order by sum(active_subscribers) desc) as rnk
@@ -7,7 +7,7 @@
 	group by telecom_circle_name, operator_name) as ranked;
 	
 -- Customer & Subscriber Analysis
--- How many active costumers do we have by customer type?
+-- How many active customers do we have by customer type?
 SELECT customer_type, count(distinct customer_id) as total_customers
 from customer
 group by customer_type;
@@ -27,8 +27,7 @@ SELECT
   network_category,
   COUNT(*) AS total_users
 FROM ( 
-  SELECT
-    customer_id,
+  SELECT customer_id,
     CASE
       WHEN COUNT(DISTINCT network_type) = 2 THEN 'Both'
       WHEN MAX(network_type) = '4G' THEN '4G Only'
@@ -94,7 +93,6 @@ ORDER BY total_revenue DESC;
 
 
 -- Which plans have the lowest data utilisation ratio?
--- Recheck
 SELECT 
     d.plan_id,
     ROUND(
