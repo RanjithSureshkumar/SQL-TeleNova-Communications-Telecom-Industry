@@ -1,0 +1,1 @@
+# SQL-TeleNova-Communications-Telecom-Industry
