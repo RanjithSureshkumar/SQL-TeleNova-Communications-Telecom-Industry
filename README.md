@@ -1,4 +1,4 @@
-# SQL-TeleNova-Communications-Telecom-Industry
+# SQL-Tele-Communications-Telecom-Industry
 # Types of Analysis Performed
 # A. Customer & Subscriber Analysis
 •	Active customers by type – Prepaid vs Postpaid, total customer counts.
