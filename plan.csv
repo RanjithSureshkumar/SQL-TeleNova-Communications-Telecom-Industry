@@ -1,0 +1,10 @@
+plan_id,plan_name,customer_type,plan_validity_days,daily_data_limit_gb,monthly_data_allowance_gb,voice_unlimited_flag,rollover_allowed_flag,fair_usage_policy_limit_gb,plan_category,plan_launch_date,plan_discontinued_date
+2001,AstraLite 28D 1.5GB,Prepaid,28,1.5,,Y,N,42,Budget,15-01-2024,
+2002,AstraPlus 28D 2GB,Prepaid,28,2,,Y,N,56,Mid,10-03-2024,
+2003,AstraMax 84D 2GB,Prepaid,84,2,,Y,Y,168,Mid,01-11-2023,
+2004,AstraStudent 56D 1GB,Prepaid,56,1,,Y,Y,56,Budget,01-06-2024,
+2005,Astra5G Boost 28D 2.5GB,Prepaid,28,2.5,,Y,N,70,Premium,01-06-2025,
+2101,AstraPost Silver,Postpaid,30,,60,Y,Y,60,Mid,01-08-2023,
+2102,AstraPost Gold,Postpaid,30,,100,Y,Y,100,Premium,01-02-2024,
+2103,AstraPost Family,Postpaid,30,,180,Y,Y,180,Premium,01-07-2024,
+2201,AstraLegacy 28D 1GB,Prepaid,28,1,,Y,N,28,Budget,01-06-2022,15-08-2025

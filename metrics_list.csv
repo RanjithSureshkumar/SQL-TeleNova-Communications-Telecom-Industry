@@ -1,0 +1,31 @@
+metric_category,metric_name,metric_definition,business_priority
+Customer Base,Total Active Customers,Count of customers with Active status in the latest period,Strategic
+Customer Base,Inactive Customers,Customers with zero data usage for 30 consecutive days,Operational
+Customer Base,Semi-Active Customers,Customers using less than 30% of allocated data,Operational
+Customer Base,Churn Rate,Percentage of customers who churned during the period,Strategic
+Customer Base,Suspension Rate,Percentage of customers suspended due to non-payment or inactivity,Operational
+Data Usage,Total Data Allocated (GB),Sum of data allocated to customers during the period,Strategic
+Data Usage,Total Data Consumed (GB),Sum of actual data consumption by customers,Strategic
+Data Usage,Unclaimed Data (GB),Allocated data minus consumed data,Strategic
+Data Usage,Unclaimed Data Percentage,Unclaimed data as a percentage of allocated data,Strategic
+Data Usage,Average Data Consumption per User,Average data consumed per active customer,Operational
+Data Usage,Low Usage Customers,Customers consuming less than 20% of allocated data,Operational
+Revenue,Total Billed Revenue,Total billed amount before discounts and refunds,Strategic
+Revenue,Net Revenue,"Revenue after discounts, late fees, and refunds",Strategic
+Revenue,Revenue Leakage,Difference between billed revenue and net revenue,Strategic
+Revenue,Average Revenue Per User (ARPU),Net revenue divided by active customers,Strategic
+Revenue,Refund Rate,Percentage of customers receiving refunds,Operational
+Revenue,Negative Revenue Cases,Number of billing records with negative net revenue,Operational
+Plan Performance,Plan Adoption Rate,Number of customers subscribed to each plan,Strategic
+Plan Performance,High Value Low Usage Plans,Premium plans with low average usage,Strategic
+Plan Performance,Discontinued Plan Usage,Customers still using discontinued plans,Operational
+Plan Performance,Rollover Utilisation Rate,Percentage of rollover data actually consumed,Operational
+Network,4G vs 5G Usage Share,Distribution of data usage across network types,Strategic
+Network,Hotspot Usage Percentage,Percentage of data consumed via hotspot usage,Operational
+Network,Urban vs Rural Usage,Comparison of data consumption across urban and rural areas,Strategic
+Geography,Circle-wise Revenue,Net revenue by telecom circle,Strategic
+Geography,Circle-wise Churn Rate,Churn rate across telecom circles,Strategic
+Geography,Tier-wise Data Consumption,"Data usage comparison across Tier 1, 2, and 3 cities",Strategic
+Data Quality,Missing Usage Records,Count of records with missing consumption values,Operational
+Data Quality,Duplicate Usage Records,Number of duplicate daily usage entries,Operational
+Data Quality,Usage Anomalies,Records where consumption exceeds allocation,Operational

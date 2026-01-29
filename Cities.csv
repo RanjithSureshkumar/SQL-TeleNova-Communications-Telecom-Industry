@@ -1,0 +1,76 @@
+city_id,city_name,telecom_circle_name,region_name,city_tier,urban_rural_flag
+1001,New Delhi,Delhi NCR,North,Tier 1,Urban
+1002,Gurugram,Delhi NCR,North,Tier 3,Urban
+1003,Noida,Delhi NCR,North,Tier 3,Urban
+1004,Ghaziabad,Delhi NCR,North,Tier 2,Rural
+1005,Faridabad,Delhi NCR,North,Tier 3,Rural
+1006,Mumbai,Mumbai,West,Tier 1,Urban
+1007,Thane,Mumbai,West,Tier 2,Urban
+1008,Navi Mumbai,Mumbai,West,Tier 2,Rural
+1009,Pune,Maharashtra,West,Tier 1,Urban
+1010,Nagpur,Maharashtra,West,Tier 2,Rural
+1011,Nashik,Maharashtra,West,Tier 2,Urban
+1012,Aurangabad,Maharashtra,West,Tier 2,Urban
+1013,Ahmedabad,Gujarat,West,Tier 1,Urban
+1014,Surat,Gujarat,West,Tier 3,Urban
+1015,Vadodara,Gujarat,West,Tier 3,Urban
+1016,Rajkot,Gujarat,West,Tier 3,Rural
+1017,Bengaluru,Karnataka,South,Tier 1,Urban
+1018,Mysuru,Karnataka,South,Tier 3,Urban
+1019,Mangaluru,Karnataka,South,Tier 2,Urban
+1020,Hubballi,Karnataka,South,Tier 2,Urban
+1021,Chennai,Tamil Nadu,South,Tier 1,Urban
+1022,Coimbatore,Tamil Nadu,South,Tier 3,Rural
+1023,Madurai,Tamil Nadu,South,Tier 2,Urban
+1024,Salem,Tamil Nadu,South,Tier 2,Urban
+1025,Kochi,Kerala,South,Tier 2,Urban
+1026,Thiruvananthapuram,Kerala,South,Tier 2,Urban
+1027,Kozhikode,Kerala,South,Tier 2,Rural
+1028,Visakhapatnam,Andhra Pradesh,South,Tier 3,Urban
+1029,Vijayawada,Andhra Pradesh,South,Tier 3,Rural
+1030,Guntur,Andhra Pradesh,South,Tier 2,Urban
+1031,Tirupati,Andhra Pradesh,South,Tier 3,Urban
+1032,Hyderabad,Telangana,South,Tier 1,Urban
+1033,Warangal,Telangana,South,Tier 2,Urban
+1034,Nizamabad,Telangana,South,Tier 3,Urban
+1035,Kolkata,West Bengal,East,Tier 1,Urban
+1036,Asansol,West Bengal,East,Tier 3,Rural
+1037,Siliguri,West Bengal,East,Tier 2,Urban
+1038,Guwahati,Assam,North East,Tier 2,Urban
+1039,Dibrugarh,Assam,North East,Tier 3,Urban
+1040,Silchar,Assam,North East,Tier 2,Rural
+1041,Patna,Bihar,East,Tier 2,Urban
+1042,Gaya,Bihar,East,Tier 2,Urban
+1043,Muzaffarpur,Bihar,East,Tier 2,Urban
+1044,Varanasi,Uttar Pradesh East,North,Tier 2,Urban
+1045,Lucknow,Uttar Pradesh East,North,Tier 3,Urban
+1046,Prayagraj,Uttar Pradesh East,North,Tier 2,Urban
+1047,Gorakhpur,Uttar Pradesh East,North,Tier 2,Urban
+1048,Noida,Uttar Pradesh West,North,Tier 2,Rural
+1049,Meerut,Uttar Pradesh West,North,Tier 3,Urban
+1050,Agra,Uttar Pradesh West,North,Tier 3,Urban
+1051,Aligarh,Uttar Pradesh West,North,Tier 2,Urban
+1052,Jaipur,Rajasthan,North,Tier 3,Urban
+1053,Jodhpur,Rajasthan,North,Tier 2,Urban
+1054,Udaipur,Rajasthan,North,Tier 2,Urban
+1055,Kota,Rajasthan,North,Tier 2,Urban
+1056,Ludhiana,Punjab,North,Tier 2,Urban
+1057,Amritsar,Punjab,North,Tier 2,Urban
+1058,Jalandhar,Punjab,North,Tier 2,Rural
+1059,Gurugram,Haryana,North,Tier 3,Urban
+1060,Faridabad,Haryana,North,Tier 2,Rural
+1061,Panipat,Haryana,North,Tier 3,Rural
+1062,Karnal,Haryana,North,Tier 2,Urban
+1063,Indore,Madhya Pradesh,Central,Tier 2,Rural
+1064,Bhopal,Madhya Pradesh,Central,Tier 2,Urban
+1065,Jabalpur,Madhya Pradesh,Central,Tier 2,Urban
+1066,Gwalior,Madhya Pradesh,Central,Tier 2,Rural
+1067,Bhubaneswar,Odisha,East,Tier 3,Rural
+1068,Cuttack,Odisha,East,Tier 2,Urban
+1069,Rourkela,Odisha,East,Tier 2,Urban
+1070,Ranchi,Jharkhand,East,Tier 2,Urban
+1071,Jamshedpur,Jharkhand,East,Tier 2,Urban
+1072,Dhanbad,Jharkhand,East,Tier 2,Urban
+1073,Raipur,Chhattisgarh,Central,Tier 2,Urban
+1074,Bhilai,Chhattisgarh,Central,Tier 2,Rural
+1075,Bilaspur,Chhattisgarh,Central,Tier 2,Urban
